@@ -1,5 +1,3 @@
-# PROJECT FOR UPLOAD
-
 import requests
 import base64
 import random
