@@ -1,6 +1,6 @@
 # Spotify
 
-This project generates a playlist of 15 songs based on the chosen mood using the Spotify API.
+This project generates a playlist of 15 classical and film score songs based on the chosen mood using the Spotify API.
 
 # Features:
 
